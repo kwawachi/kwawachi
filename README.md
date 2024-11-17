@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Chisi</h1>
 <h3 align="center">An aspiring data scientist from Malawi with interest in leveraging AI for SDGs.</h3>
 
-- 📄 Know about my datacamp experience [www.datacamp.com/portfolio/ChristopherChisi](www.datacamp.com/portfolio/ChristopherChisi)
+- 📄 Check out my DataCamp portfolio [www.datacamp.com/portfolio/ChristopherChisi](www.datacamp.com/portfolio/ChristopherChisi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
