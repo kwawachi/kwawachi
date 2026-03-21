@@ -8,7 +8,7 @@ I build AI systems for climate-resilient agriculture in Africa, combining geospa
 
 ## 🔬 Current Work
 
-**MSc Applied Data Science @ LUANAR** (Sept 2024 - Sept 2026)
+**MSc Applied Data Science @ LUANAR** 
 
 - 📊 **Focus:** Machine learning deployment under data quality constraints and limited resources
 
