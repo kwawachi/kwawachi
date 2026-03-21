@@ -16,8 +16,7 @@ I build AI systems for climate-resilient agriculture in Africa, combining geospa
 
 ## 🛠️ Tech Stack
 
-```
-python
+```python
 skills = {
     "ml_frameworks": ["TensorFlow", "PyTorch", "XGBoost", "scikit-learn"],
     "data_science": ["Python", "R", "SQL", "Pandas", "NumPy"],
