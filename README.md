@@ -60,6 +60,4 @@ skills = {
 
 *"Using data science to build resilient systems in Africa"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=kwawachi&color=blue&style=flat)
-
 </div>
