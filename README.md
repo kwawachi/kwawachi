@@ -2,7 +2,7 @@
 
 **Data Scientist • Machine Learning Researcher • Climate-Smart Agriculture**
 
-I build AI systems for climate-resilient agriculture in Africa, combining geospatial analysis, deep learning, and interpretable machine learning to support smallholder farmers.
+I build AI systems for climate-resilient agriculture in Africa, combining geospatial analysis, deep learning, and interpretable machine learning to support smallholder farmers. 
 
 ---
 
